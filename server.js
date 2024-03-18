@@ -8,7 +8,6 @@ const JWT_SECRET_KEY = require('./node_modules/json-server-auth/dist/constants')
 const server = express();
 const router = jsonServer.router('db.json');
 
-// Apply CORS middleware to allow cross-origin requests
 server.use(cors());
 server.use(auth);
 server.use(jsonServer.defaults());
@@ -19,7 +18,6 @@ server.get('/profile', auth, (req, res) => {
     try {
       const data = jwt.verify(token, JWT_SECRET_KEY);
 
-      // Access the lowdb instance
       const user = router.db.get('users').find({ email: data.email }).value();
       
       if (user) {
@@ -35,10 +33,9 @@ server.get('/profile', auth, (req, res) => {
   }
 });
 
-// Bind the router db to the server
+
 server.db = router.db;
 
-// Use JSON Server routes
 server.use(router);
 
 const PORT = process.env.PORT || 8080;
