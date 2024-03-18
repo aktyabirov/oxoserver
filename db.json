@@ -1,0 +1,272 @@
+{
+  "users": [
+    {
+      "email": "exaple@gmail.com",
+      "password": "$2a$10$9wOPMB9847j/hI0vCNIUlesE3uqWDAco7irtE5sz8FtjYk.M5B9zi",
+      "name": "Abdu",
+      "location": "Tashkent",
+      "id": 1
+    },
+    {
+      "email": "roktyabirov@gmail.com",
+      "password": "$2a$10$606yyHWCTqskFPbP8ajNMevqDBR17SSnfP558MrFrLmXCQsNv9TPW",
+      "phoneNumber": "+998998837887",
+      "fullName": "Rahmatolloh Oktyabirov",
+      "location": "Toshkent",
+      "confirmPassword": "ABC123",
+      "id": 2
+    }
+  ],
+  "all": [
+    {
+      "title": "Tiko",
+      "productUrl": "https://i.ytimg.com/vi/zUIatHgP8WY/maxresdefault.jpg",
+      "price": "10000",
+      "description": "Holati zor, kelishtirib beramiz ",
+      "name": "Toxtayev Yur",
+      "email": "info@bmfinancialllc.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T11:22:56.859Z",
+      "id": 36
+    },
+    {
+      "title": "Nexia 2 sotiladi",
+      "productUrl": "https://a.d-cd.net/38ad635s-960.jpg",
+      "price": "9500",
+      "description": "Urilmagan, qirilmagan, hammasi chetkiy",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:36:05.253Z",
+      "id": 37
+    },
+    {
+      "title": "Jiguli sotiladi",
+      "productUrl": "https://daryo.uz/cache/2014/05/2-312-700x525.jpg",
+      "price": "4500",
+      "description": "Srochna sotiladi",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:36:50.433Z",
+      "id": 38
+    },
+    {
+      "title": "Captiva sotaman",
+      "productUrl": "https://storage.kun.uz/source/RASMLAR/ifgyfg8sd2549-3.jpg",
+      "price": "18000",
+      "description": "Kenayi haydagan",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:37:36.747Z",
+      "id": 39
+    },
+    {
+      "title": "Lacetti 1.8 srochna",
+      "productUrl": "https://storage.kun.uz/source/RASMLAR/ifgyfg8sd2549-42.jpg",
+      "price": "6700",
+      "description": "Sotaman tezda",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:38:26.166Z",
+      "id": 40
+    },
+    {
+      "title": "Nexia 2 arendaga ",
+      "productUrl": "https://storage.kun.uz/source/RASMLAR/ifgyfg8sd2549-31.jpg",
+      "price": "9500",
+      "description": "boshiga 500, 10 oy 900 dan",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:39:30.097Z",
+      "id": 41
+    }
+  ],
+  "home": [],
+  "realestate": [],
+  "jobs": [],
+  "hobbi": [],
+  "garden": [],
+  "cars": [
+    {
+      "title": "Tiko",
+      "productUrl": "https://i.ytimg.com/vi/zUIatHgP8WY/maxresdefault.jpg",
+      "price": "10000",
+      "description": "Holati zor, kelishtirib beramiz ",
+      "name": "Toxtayev Yur",
+      "email": "info@bmfinancialllc.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T11:22:56.859Z",
+      "id": 2
+    },
+    {
+      "title": "Nexia 2 sotiladi",
+      "productUrl": "https://a.d-cd.net/38ad635s-960.jpg",
+      "price": "9500",
+      "description": "Urilmagan, qirilmagan, hammasi chetkiy",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:36:05.253Z",
+      "id": 3
+    },
+    {
+      "title": "Jiguli sotiladi",
+      "productUrl": "https://daryo.uz/cache/2014/05/2-312-700x525.jpg",
+      "price": "4500",
+      "description": "Srochna sotiladi",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:36:50.433Z",
+      "id": 4
+    },
+    {
+      "title": "Captiva sotaman",
+      "productUrl": "https://storage.kun.uz/source/RASMLAR/ifgyfg8sd2549-3.jpg",
+      "price": "18000",
+      "description": "Kenayi haydagan",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:37:36.747Z",
+      "id": 5
+    },
+    {
+      "title": "Lacetti 1.8 srochna",
+      "productUrl": "https://storage.kun.uz/source/RASMLAR/ifgyfg8sd2549-42.jpg",
+      "price": "6700",
+      "description": "Sotaman tezda",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:38:26.166Z",
+      "id": 6
+    },
+    {
+      "title": "Nexia 2 arendaga ",
+      "productUrl": "https://storage.kun.uz/source/RASMLAR/ifgyfg8sd2549-31.jpg",
+      "price": "9500",
+      "description": "boshiga 500, 10 oy 900 dan",
+      "name": "Rahmatolloh Oktyabirov",
+      "email": "roktyabirov@gmail.com",
+      "phoneNumber": "+998998837887",
+      "location": "Toshkent",
+      "category": "cars",
+      "userId": 2,
+      "postedTime": "2024-03-18T14:39:30.097Z",
+      "id": 7
+    }
+  ],
+  "texno": [],
+  "forchildren": [],
+  "fashion": [],
+  "service": [],
+  "animals": [],
+  "free": [],
+  "exchange": [],
+  "support": [],
+  "categories": [
+    {
+      "datakey": "hobbi",
+      "title": "Xobbi",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/guitar.svg"
+    },
+    {
+      "datakey": "garden",
+      "title": "Uy va bog",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/50%20Real%20Estate%20Icons-28%201.svg"
+    },
+    {
+      "datakey": "cars",
+      "title": "Transport",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/car.svg"
+    },
+    {
+      "datakey": "texno",
+      "title": "Elektr jihozlari",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/imac.svg"
+    },
+    {
+      "datakey": "forchildren",
+      "title": "Bolalar uchun",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/bike.svg"
+    },
+    {
+      "datakey": "service",
+      "title": "Xizmatlar",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/service.svg"
+    },
+    {
+      "datakey": "animals",
+      "title": "Hayvonlar",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/cat.svg"
+    },
+    {
+      "datakey": "free",
+      "title": "Tekinga beraman",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/money.svg"
+    },
+    {
+      "datakey": "exchange",
+      "title": "Ayirboshlash",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/handshake.svg"
+    },
+    {
+      "datakey": "realestate",
+      "title": "Kochmas mulk",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/50%20Real%20Estate%20Icons-22%201.svg"
+    },
+    {
+      "datakey": "jobs",
+      "title": "Ish",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/Briefcase.svg"
+    },
+    {
+      "datakey": "fashion",
+      "title": "Moda va stil",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/shirt.svg"
+    },
+    {
+      "datakey": "support",
+      "title": "Yordam Markazi",
+      "img": "https://raw.githubusercontent.com/aktyabirov/assets/04eeb4f59e7482ee2edac8f3d7c3f5dcec3d09dd/oxo/message.svg"
+    }
+  ]
+}
